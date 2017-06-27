@@ -22,7 +22,7 @@
    The following styles are ordered & tabbed
    in a way that represents the nesting of the generated HTML.
 -------------------------------------------------------------- */
-#cboxOverlay{background:url(../../../images/infortis/_shared/colorbox/overlay.png) repeat 0 0;}
+#cboxOverlay{background:url(http://www.clickonfurniture.com.au/skin/frontend/ultimo/default/images/infortis/_shared/colorbox/overlay.png) repeat 0 0;}
 #colorbox{}
     #cboxContent{background:#fff; overflow:hidden; border:none;/*10px solid #333*/ padding:10px; }
         .cboxIframe{background:#fff;}
@@ -32,7 +32,7 @@
         #cboxSlideshow{position:absolute; bottom:4px; right:30px; color:#0092ef;}
 		
 		#cboxPrevious,
-		#cboxNext { position:absolute; background:url(../../../images/infortis/_shared/slider-arrows.png) no-repeat #ddd; width:30px; height:30px; text-indent:-9999px; }
+		#cboxNext { position:absolute; background:url(http://www.clickonfurniture.com.au/skin/frontend/ultimo/default/images/infortis/_shared/slider-arrows.png) no-repeat #ddd; width:30px; height:30px; text-indent:-9999px; }
 		#cboxPrevious:hover,
 		#cboxNext:hover { background-color:#333; }
         #cboxPrevious{bottom:10px; left:10px; background-position:-10px -10px;}
@@ -40,10 +40,10 @@
         #cboxNext{bottom:10px; left:40px; background-position:-60px -10px;}
         #cboxNext:hover{background-position:-60px -60px;}
 		
-        #cboxLoadingOverlay{background:url(../../../images/infortis/_shared/colorbox/loading_background.png) no-repeat center center;}
-        #cboxLoadingGraphic{background:url(../../../images/infortis/_shared/colorbox/loading.gif) no-repeat center center;}
+        #cboxLoadingOverlay{background:url(http://www.clickonfurniture.com.au/skin/frontend/ultimo/default/images/infortis/_shared/colorbox/loading_background.png) no-repeat center center;}
+        #cboxLoadingGraphic{background:url(http://www.clickonfurniture.com.au/skin/frontend/ultimo/default/images/infortis/_shared/colorbox/loading.gif) no-repeat center center;}
 		
-        #cboxClose{position:absolute; bottom:10px; right:10px; background:url(../../../images/infortis/_shared/close-button.png) -10px -10px no-repeat #ddd; width:30px; height:30px; text-indent:-9999px;}
+        #cboxClose{position:absolute; bottom:10px; right:10px; background:url(http://www.clickonfurniture.com.au/skin/frontend/ultimo/default/images/infortis/_shared/close-button.png) -10px -10px no-repeat #ddd; width:30px; height:30px; text-indent:-9999px;}
         #cboxClose:hover{background-position:-10px -60px; background-color:#333;}
 
         /* Captions */
